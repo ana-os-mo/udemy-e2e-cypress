@@ -1,0 +1,27 @@
+{
+  "name": "udemy-e2e-cypress",
+  "version": "1.0.0",
+  "description": "Udemy course about cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ana-os-mo/udemy-e2e-cypress.git"
+  },
+  "keywords": [
+    "ui-testing",
+    "API-testing",
+    "component-testing"
+  ],
+  "author": "Ana Osorio <anmosoriomo@unal.edu.co> (https://github.com/ana-os-mo)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ana-os-mo/udemy-e2e-cypress/issues"
+  },
+  "homepage": "https://github.com/ana-os-mo/udemy-e2e-cypress#readme",
+  "devDependencies": {
+    "cypress": "^10.3.1"
+  }
+}
